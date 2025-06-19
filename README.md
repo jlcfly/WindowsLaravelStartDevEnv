@@ -9,7 +9,8 @@ This simple cmd script will launch npm run dev and php artisan serve in new tabs
 launch Visual Studio Code in the first tab. This will all happen in one go without having to manually open
 each tab and run separate commands. How cool is that?
 
-To run, copy devstart.cmd to your project root folder. At a cmd prompt, type:
+To start, copy devstart.cmd to your project root folder. Modify devstart to set the project_folder variable
+to your project folder root. At a cmd prompt, type:
 
 `devstart`
 
